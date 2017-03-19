@@ -1,1 +1,1 @@
-React Bioler plate
+React Timer App - Learning React Js!
